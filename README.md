@@ -1,13 +1,12 @@
-# rtl8188fu-driver-samsung-a05
-RTL8188FU Linux USB WiFi driver with monitor mode support for Samsung A05M – KernelSU Magisk modules patched and optimized by sluisr.
-
 # RTL8188FU Monitor Mode – KernelSU / Magisk Modules
 
 ![status](https://img.shields.io/badge/status-stable-brightgreen)
 ![license](https://img.shields.io/badge/license-GPL--2.0-blue)
 
+**Repository:** `rtl8188fu-driver-samsung-a05`
+
 USB WiFi driver for **RTL8188FU** chipsets with full **monitor mode support**, packaged as a **KernelSU** or **Magisk** module.  
-**Patched and optimized for Samsung Galaxy A05M (Android ARM64)**.
+**Patched and optimized for Samsung Galaxy A05M (Android ARM64).**
 
 ---
 
@@ -34,12 +33,14 @@ USB WiFi driver for **RTL8188FU** chipsets with full **monitor mode support**, p
 ## 🔧 Installation
 
 ### ✅ KernelSU:
+
 1. Copy the `.zip` file to your internal storage.
 2. Open the **KernelSU Manager** app.
 3. Go to **Modules → + → From Storage** and select the module.
 4. Reboot your device.
 
 ### ✅ Magisk:
+
 1. Open **Magisk Manager**.
 2. Go to **Modules → Install from storage**.
 3. Choose the `.zip` module file.
