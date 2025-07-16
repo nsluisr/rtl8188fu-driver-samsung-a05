@@ -1,3 +1,5 @@
+Here's the updated README with the new Downloads section added right after the Available Modules table:
+
 # RTL8188FU Monitor Mode – KernelSU / Magisk Modules
 
 [![status](https://img.shields.io/badge/status-stable-brightgreen)](https://github.com/nsluisr/rtl8188fu-driver-samsung-a05)  
@@ -26,6 +28,17 @@ USB WiFi driver for **RTL8188FU** chipsets with full **monitor mode support**, p
 |---------------|---------------|-----------------|---------------------------------|
 | `4.0 Monitor` | Monitor Mode  | KernelSU/Magisk | `rtl8188fu_module_monitor.zip`  |
 | `3.0 Stable`  | Normal Mode   | KernelSU/Magisk | `rtl8188fu_module_stable.zip`   |
+
+---
+
+## 📥 Downloads
+
+Get the latest modules from the [Releases](https://github.com/nsluisr/rtl8188fu-driver-samsung-a05/releases) page:
+
+- 💣 [rtl8188fu_module_monitor.zip](https://github.com/nsluisr/rtl8188fu-driver-samsung-a05/releases/latest) – Monitor Mode (v4.0)
+- 🧱 [rtl8188fu_module_stable.zip](https://github.com/nsluisr/rtl8188fu-driver-samsung-a05/releases/latest) – Stable Mode (v3.0)
+
+> Make sure to pick the right file for your setup (KernelSU or Magisk).
 
 ---
 
