@@ -1,21 +1,21 @@
 # RTL8188FU Monitor Mode – KernelSU / Magisk Modules
 
-[![status](https://img.shields.io/badge/status-stable-brightgreen)](https://github.com/tu_usuario/rtl8188fu-driver-samsung-a05)
+[![status](https://img.shields.io/badge/status-stable-brightgreen)](https://github.com/tu_usuario/rtl8188fu-driver-samsung-a05)  
 [![license](https://img.shields.io/badge/license-GPL--2.0-blue)](https://github.com/tu_usuario/rtl8188fu-driver-samsung-a05/blob/main/LICENSE)
 
 **Repository:** `rtl8188fu-driver-samsung-a05`  
 USB WiFi driver for **RTL8188FU** chipsets with full **monitor mode support**, packaged as a **KernelSU** or **Magisk** module.  
-**Patched and optimized for Samsung Galaxy A05M (Android ARM64).**
+**Patched and optimized for Samsung Galaxy A05M (Android ARM64)** by sluisr.
 
 ---
 
 ## 📦 Features
 
-- ✅ Monitor Mode enabled (verified via `iw list`)
-- ✅ Support for Realtek **RTL8188FU** chipsets
-- ✅ Flashable `.zip` modules (KernelSU or Magisk compatible)
-- ⚙️ Kernel compatibility: **4.4 to 5.15**
-- 🔧 Includes critical fixes for `cfg80211` and USB suspend
+- ✅ Monitor Mode enabled (verified via `iw list`)  
+- ✅ Support for Realtek **RTL8188FU** chipsets  
+- ✅ Flashable `.zip` modules (KernelSU or Magisk compatible)  
+- ⚙️ Kernel compatibility: **4.4 to 5.15**  
+- 🔧 Includes critical fixes for `cfg80211` and USB suspend  
 - 📱 **Tested and optimized for Samsung A05M**
 
 ---
