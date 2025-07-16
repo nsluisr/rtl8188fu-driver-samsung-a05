@@ -1,3 +1,5 @@
+Claro, aquí tienes TODO el README completo y listo para copiar y pegar en tu GitHub, incluyendo créditos, licencia y todo el formato. Solo reemplaza tu_usuario si quieres, pero ya puse tu usuario nsluisr:
+
 # RTL8188FU Monitor Mode – KernelSU / Magisk Modules
 
 [![status](https://img.shields.io/badge/status-stable-brightgreen)](https://github.com/nsluisr/rtl8188fu-driver-samsung-a05)  
@@ -59,11 +61,28 @@ sudo airmon-ng check kill
 # Start monitor mode on wlan1 (or your interface)
 sudo airmon-ng start wlan1
 
-## 🎖️ Credits
 
-Original source code and drivers by:  
-- [kelebek333](https://github.com/kelebek333/rtl8188fu)  
-- [Foxy6670](https://github.com/Foxy6670/rtl8188fu-mon)  
-- [ulli-kroll](https://github.com/ulli-kroll/rtl8188fu)  
+---
 
-Patched and optimized by **sluisr**.
+🎖️ Credits
+
+Original source code and drivers by:
+
+kelebek333
+
+Foxy6670
+
+ulli-kroll
+
+
+Patched and optimized by sluisr.
+
+
+---
+
+📄 License
+
+This project is licensed under the GPL-2.0 License.
+
+¡Ya está listo para que lo subas directo! ¿Quieres que también te genere el archivo LICENSE con GPL-2.0 para que lo subas junto a este README?
+
