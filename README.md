@@ -1,7 +1,7 @@
 # RTL8188FU Monitor Mode – KernelSU / Magisk Modules
 
-[![status](https://img.shields.io/badge/status-stable-brightgreen)](https://github.com/tu_usuario/rtl8188fu-driver-samsung-a05)  
-[![license](https://img.shields.io/badge/license-GPL--2.0-blue)](https://github.com/tu_usuario/rtl8188fu-driver-samsung-a05/blob/main/LICENSE)
+[![status](https://img.shields.io/badge/status-stable-brightgreen)](https://github.com/nsluisr/rtl8188fu-driver-samsung-a05)  
+[![license](https://img.shields.io/badge/license-GPL--2.0-blue)](https://github.com/nsluisr/rtl8188fu-driver-samsung-a05/blob/main/LICENSE)
 
 **Repository:** `rtl8188fu-driver-samsung-a05`  
 USB WiFi driver for **RTL8188FU** chipsets with full **monitor mode support**, packaged as a **KernelSU** or **Magisk** module.  
@@ -58,25 +58,3 @@ sudo airmon-ng check kill
 
 # Start monitor mode on wlan1 (or your interface)
 sudo airmon-ng start wlan1
-
-🎖️ Credits
-
-Original source code and drivers by:
-
-kelebek333
-
-Foxy6670
-
-ulli-kroll
-
-
-Patched and optimized by sluisr.
-
-
----
-
-📄 License
-
-This project is licensed under the GPL-2.0 License.
-
-Solo cambia `tu_usuario` por tu usuario real y listo. Así muestras respeto a los creadores originales, das crédito y mantienes transparencia. ¿Quieres que te prepare también el archivo LICENSE para que lo subas junto al README?
