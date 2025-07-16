@@ -58,3 +58,12 @@ sudo airmon-ng check kill
 
 # Start monitor mode on wlan1 (or your interface)
 sudo airmon-ng start wlan1
+
+## 🎖️ Credits
+
+Original source code and drivers by:  
+- [kelebek333](https://github.com/kelebek333/rtl8188fu)  
+- [Foxy6670](https://github.com/Foxy6670/rtl8188fu-mon)  
+- [ulli-kroll](https://github.com/ulli-kroll/rtl8188fu)  
+
+Patched and optimized by **sluisr**.
