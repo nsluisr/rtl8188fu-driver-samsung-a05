@@ -62,19 +62,24 @@ sudo airmon-ng start wlan1
 
 ---
 
+## 🙏 Credits & Resources
+
+### Development Repositories
+- **[Foxy6670/rtl8188fu-mon](https://github.com/Foxy6670/rtl8188fu-mon)**  
+- **[kelebek333/rtl8188fu](https://github.com/kelebek333/rtl8188fu)**  
+- **[ulli-kroll/rtl8188fu](https://github.com/ulli-kroll/rtl8188fu)**  
+
+### Video Tutorials & Support
+[![YouTube Channel](https://img.shields.io/badge/YouTube-@sluisr_-red?logo=youtube)](https://youtube.com/@sluisr_)  
+**Visit my YouTube channel for installation guides and troubleshooting:**
+
+▶️ [**youtube.com/@sluisr_**](https://youtube.com/@sluisr_)  
+*(Tutorials, benchmarks, and advanced usage tips)*
+
 ---
 
-## 🙏 Credits
-
-This project builds upon work from the following repositories:
-
-### 🔧 Primary Development Repositories
-- [Foxy6670/rtl8188fu-mon](https://github.com/Foxy6670/rtl8188fu-mon) – Monitor mode implementation
-- [kelebek333/rtl8188fu](https://github.com/kelebek333/rtl8188fu) – Base driver without monitor mode
-
-### 🧬 Original Source
-- [ulli-kroll/rtl8188fu](https://github.com/ulli-kroll/rtl8188fu) – Original Realtek driver source
-
-> Special thanks to all contributors and maintainers of these projects.
-
----
+## 🚀 Support the Project
+Found this useful? Show your support!  
+⭐ **Star the GitHub Repository**  
+📺 **Subscribe to [@sluisr_](https://youtube.com/@sluisr_)**  
+🐛 **Report issues on GitHub**
