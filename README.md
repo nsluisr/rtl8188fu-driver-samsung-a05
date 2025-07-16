@@ -58,3 +58,25 @@ sudo airmon-ng check kill
 
 # Start monitor mode on wlan1 (or your interface)
 sudo airmon-ng start wlan1
+
+🎖️ Credits
+
+Original source code and drivers by:
+
+kelebek333
+
+Foxy6670
+
+ulli-kroll
+
+
+Patched and optimized by sluisr.
+
+
+---
+
+📄 License
+
+This project is licensed under the GPL-2.0 License.
+
+Solo cambia `tu_usuario` por tu usuario real y listo. Así muestras respeto a los creadores originales, das crédito y mantienes transparencia. ¿Quieres que te prepare también el archivo LICENSE para que lo subas junto al README?
