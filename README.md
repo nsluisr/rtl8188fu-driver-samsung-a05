@@ -82,26 +82,8 @@ sudo airmon-ng start wlan1
 - **[kelebek333/rtl8188fu](https://github.com/kelebek333/rtl8188fu)**  
 - **[ulli-kroll/rtl8188fu](https://github.com/ulli-kroll/rtl8188fu)**  
 
-### Video Tutorials & Guides
-[![YouTube Channel](https://img.shields.io/badge/YouTube-@sluisr_-red?logo=youtube)](https://youtube.com/@sluisr_)  
-**Visit my YouTube channel for installation guides and advanced usage:**
-
-▶️ [**youtube.com/@sluisr_**](https://youtube.com/@sluisr_)  
-*(Step-by-step tutorials, performance tests, and troubleshooting)*
-
----
-
-## ☕ Support My Work
-
-Enjoying this project? Support my development efforts!  
-[![ko-fi](https://img.shields.io/badge/Ko--fi-Support_Me-ff5e5b?logo=kofi)](https://ko-fi.com/sluisr)  
-
-**▶️ [ko-fi.com/sluisr](https://ko-fi.com/sluisr)**  
-*(Your support helps maintain and improve these projects)*
-
 ---
 
 ## 🚀 Show Your Support
 ⭐ **Star the GitHub Repository**  
 🐛 **Report issues on GitHub**  
-📺 **Subscribe to [@sluisr_](https://youtube.com/@sluisr_)**
